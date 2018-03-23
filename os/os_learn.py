@@ -4,7 +4,7 @@ Created on Wed Mar  7 17:19:11 2018
 
 @author: DELL
 """
-
+#可用来查询文件操作的相关命令
 import os
 #import glob
 import shutil
